@@ -1,0 +1,2 @@
+> hello.string<- 'Hello, world'
+> print(hello.string)
